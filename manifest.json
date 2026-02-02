@@ -8,11 +8,15 @@
     "author": [{
       "name": "apanzinc",
       "author_url": "https://apanzinc.top"
+    },
+    {
+      "name": "文档链接",
+      "author_url": "https://www.yuque.com/apanzinc/dial/gkcixvle1ut8zb06"
     }]
   },
   "downloads": {
     "n67": {
-      "version": "1.0",
+      "version": "2.0",
       "file_name": "n67.bin"
     }
   }
