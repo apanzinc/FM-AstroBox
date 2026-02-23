@@ -29,15 +29,15 @@
   "downloads": {
     "xmb9p": {
       "version": "2.0",
-      "file_name": "n67.bin"
+      "file_name": "xmb9p.bin"
     },
     "xmb10": {
       "version": "2.0",
-      "file_name": "o66.bin"
+      "file_name": "xmb10.bin"
     },
     "xmb10nfc": {
       "version": "2.0",
-      "file_name": "o66.bin"
+      "file_name": "xmb10.bin"
     }
   },
   "ext": {}
