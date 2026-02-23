@@ -1,9 +1,9 @@
 {
   "item": {
-    "id": "<placeholder>",
+    "id": "979865900101",
     "restype": "watchface",
     "name": "富士山",
-    "description": "一个简单的富士山风景表盘~,
+    "description": "一个简单的富士山风景表盘~",
     "preview": ["preview0.png", "preview1.png"],
     "icon": "icon.png",
     "cover": "cover.png",
