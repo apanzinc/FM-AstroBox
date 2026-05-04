@@ -10,22 +10,34 @@
       "author_url": "https://apanzinc.top"
     },
     {
-      "name": "文档链接",
-      "author_url": "https://www.yuque.com/apanzinc/dial/gkcixvle1ut8zb06"
+      "name": "QQ群",
+      "author_url": "https://qm.qq.com/q/vBeUc5nxK2"
     }]
   },
   "downloads": {
     "n67": {
-      "version": "2.0",
+      "version": "3.0",
       "file_name": "xmb9p.bin"
     },
     "o66": {
-      "version": "2.0",
+      "version": "3.0",
       "file_name": "xmb10.bin"
     },
     "o66nfc": {
-      "version": "2.0",
+      "version": "3.0",
       "file_name": "xmb10.bin"
+    },
+    "N66": {
+      "version": "3.0",
+      "file_name": "xmb9.bin"
+    },
+    "O65": {
+      "version": "3.0",
+      "file_name": "xmrw5.bin"
+    },
+    "o65m": {
+      "version": "3.0",
+      "file_name": "xmrw5xring"
     }
   }
 
